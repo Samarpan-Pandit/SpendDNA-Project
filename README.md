@@ -147,19 +147,6 @@ Detected spending personalities including:
 - The YOLO Spender
 
 ---
-
-# 📊 Sample Output
-
-
-
-
-![Final Report Screenshot](SpendDNA Final Report.png)
-
-
-
-
-
-
 # ▶️ How to Run
 
 1. Clone the repository.
