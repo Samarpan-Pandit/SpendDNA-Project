@@ -153,7 +153,8 @@ Detected spending personalities including:
 
 
 
-image/SpendDNA Final Report.png
+![Final Report Screenshot](SpendDNA Final Report.png)
+
 
 
 
