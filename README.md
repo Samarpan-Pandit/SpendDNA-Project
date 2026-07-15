@@ -150,31 +150,14 @@ Detected spending personalities including:
 
 # 📊 Sample Output
 
-**Insert your SpendDNA Report screenshot here**
 
-Example:
 
-```
-images/final_report.png
-```
 
-(Upload a screenshot of your final report into an `images` folder in the repository and reference it with Markdown if desired.)
+image/SpendDNA Final Report.png
 
----
 
-# 📁 Repository Structure
 
-```
-SpendDNA/
-│
-├── SpendDNA_SamarpanPandit.ipynb
-├── Data set for DADS June.csv
-├── README.md
-└── images/
-    └── final_report.png
-```
 
----
 
 # ▶️ How to Run
 
